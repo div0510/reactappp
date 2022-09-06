@@ -1,0 +1,40 @@
+Websites
+Living Standard . com (for html)
+Awwwards.com (for cards)
+pintrest.com (for web design)
+font awesome
+favicon
+unsplash
+getbootstrap.com
+react-tutorial.app
+rapidapi.com/learn
+learngitbranching.js.org
+formik.docs
+
+notFound.gif
+html to jsx
+MySQL.com
+unDraw
+Flaticon Pattern Generator
+ES6 features
+sweetAlert2
+
+
+
+https://projects.codequotient.com/project/08-04-2022-3p34g8mlwjl1qep3sg
+https://projects.codequotient.com/project/08-04-2022-3p34g8mlwjl1qep3sg
+
+To navigate to your home directory, use "cd" or "cd ~"
+    
+To navigate back one directory level, use "cd .."
+    
+To navigate to the previous directory (or back), use "cd -"
+    
+To navigate into the root directory, use "cd /"
+
+"cls" to clear screen 
+
+to change drive "c:" or "d:"
+
+vermarvindrakumar@gmail.com
+1234rav89
